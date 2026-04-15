@@ -1,8 +1,7 @@
 // 
 // tsh - A tiny shell program with job control
 // 
-// <Dylan Carter, dyca3990, Dylan3142>
-//
+
 
 using namespace std;
 
